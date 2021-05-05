@@ -1,0 +1,21 @@
+
+Package: com.yoo0x.ytmusic
+Version: 3.0.4
+Architecture: iphoneos-arm
+Maintainer: yoxoo  <https://twitter.com/yox_oo>
+Installed-Size: 280
+Depends: firmware (>=12.0), mobilesubstrate
+Filename: ./pkg/com_yoo0x_ytmusic_3_0_4_iphoneos-arm.deb
+Size: 11642
+MD5sum: 92d96c97e05d9f06856be8f7411dd469
+SHA1: 687ace859701a833367560217b4cef790f574df5
+SHA256: 6d35a00ce1306db1381b4923acc823cd1aa1f8e51921ef717042605b07751345
+Section: Tweaks
+Description: yoo0x the app 
+Author: yoxoo  <https://twitter.com/yox_oo>
+Depiction: https://johnzaro.github.io/cydia/depiction/web/com.boxxx.ytmusicxx.html
+Icon: https://yoxoo.github.io/box.xx/assets/com.boxxx.ytmusicxx/icon.png
+Moderndepiction: https://yoxoo.github.io/box.xx/depiction/native/com.boxxx.ytmusicxx.json
+Name: YT Musicxx
+Sileodepiction: https://yoxoo.github.io/box.xx/depiction/native/com.boxxx.ytmusicxx.json
+compatible_min::ios13.0, compatible_max::ios13.6
